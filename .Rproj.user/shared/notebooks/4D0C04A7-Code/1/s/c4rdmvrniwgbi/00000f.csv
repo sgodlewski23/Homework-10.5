@@ -1,0 +1,2 @@
+"0","#Viewership"
+"0","plot(data$No..of.Episode..Overall.,data$U.S..Viewers..Millions., col= 'blue' , xlab ='Episodes', ylab ='Viewership in millions')"

@@ -1,0 +1,2 @@
+"0","#Episodes Change"
+"0","Episode_change <- diff(data$U.S..Viewers..Millions.)"
